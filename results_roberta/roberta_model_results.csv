@@ -1,0 +1,2 @@
+test_loss,test_accuracy,test_precision,test_recall,test_f1,test_auc,test_runtime,test_samples_per_second,test_steps_per_second
+0.35497352480888367,0.8656462585034014,0.9055555555555556,0.8204697986577181,0.8609154929577465,0.8662693820874797,66.4703,17.692,0.286
